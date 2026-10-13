@@ -1,19 +1,19 @@
 {
-    "version": "0.2.0-rc.3",
+    "version": "0.2.0-rc.4",
     "architecture": {
         "64bit": {
-            "url": "https://app.synode.com.br/api/v1/cli/releases/0.2.0-rc.3/synode_0.2.0-rc.3_windows_amd64.zip",
+            "url": "https://app.synode.com.br/api/v1/cli/releases/0.2.0-rc.4/synode_0.2.0-rc.4_windows_amd64.zip",
             "bin": [
                 "synode.exe"
             ],
-            "hash": "e8a871bbc7fded7bed45a8a309d87284ffb33fa9a5242d4c578a49d144412d0f"
+            "hash": "34eb53f6eb3eeee11c349cab1424804166b5b03d497a1fcf73421b60094eaa9c"
         },
         "arm64": {
-            "url": "https://app.synode.com.br/api/v1/cli/releases/0.2.0-rc.3/synode_0.2.0-rc.3_windows_arm64.zip",
+            "url": "https://app.synode.com.br/api/v1/cli/releases/0.2.0-rc.4/synode_0.2.0-rc.4_windows_arm64.zip",
             "bin": [
                 "synode.exe"
             ],
-            "hash": "ed6d4535895530fc8f28c49c007ea23f3694ad14f4f619e38db175d993ed8b5b"
+            "hash": "faff42eb04056b7a65b7392778de67dea7e4119c1fcac836eb8fb4c27aac8aa9"
         }
     },
     "homepage": "https://app.synode.com.br",
